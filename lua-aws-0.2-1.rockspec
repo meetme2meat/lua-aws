@@ -20,5 +20,5 @@ dependencies = {
 build = {
   type = "builtin",
   type = "command",
-  install_command = "cp -r lua-aws /usr/local/lib/luarocks/rocks-5.3/lua-aws"
+  install_command = "cp -r lua-aws /usr/local/share/lua/5.3/lua-aws"
 }
