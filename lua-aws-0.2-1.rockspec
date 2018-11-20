@@ -15,7 +15,8 @@ description = {
   license = " Apache License 2.0"
 }
 dependencies = {
-  "lua >= 5.3"
+  "lua >= 5.3",
+  "bitlib",
 }
 build = {
   type = "builtin",
