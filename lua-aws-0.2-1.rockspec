@@ -16,7 +16,7 @@ description = {
 }
 dependencies = {
   "lua >= 5.3",
-  "bitlib",
+  "luabitop",
 }
 build = {
   type = "builtin",
